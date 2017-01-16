@@ -1,0 +1,13 @@
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\bin\Debug\KolokwiumHotel.exe.config
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.csprojResolveAssemblyReference.cache
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\MainWindow.baml
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\MainWindow.g.cs
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\App.g.cs
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel_MarkupCompile.cache
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.g.resources
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.Properties.Resources.resources
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.csproj.GenerateResource.Cache
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\bin\Debug\KolokwiumHotel.exe
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\bin\Debug\KolokwiumHotel.pdb
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.exe
+D:\JJ\progi\Kolokwium\KolokwiumHotel\KolokwiumHotel\obj\Debug\KolokwiumHotel.pdb
